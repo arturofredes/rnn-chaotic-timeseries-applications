@@ -5,10 +5,18 @@
 The objective of this work was to a study how recurrent neural networks perform forecasting future steps of time series, working with different sets of data of increasing complexity. A proof of concept was made working with one-dimensional data of the sum of two waves and some noise. Different types of neurons and architectures were used to compare performance in different scenarios. Next, the study was continued using data from a 3D chaotic system (the Lorenz Attractor), and finally it was attempted to apply these techniques to real business data. For further reading the pdf with the work's report has been made available.
 
 Files:
+
 toy_model: this folder the files relating with the study of RNN using simple-one-dimensional data.
+
 |___Toy_model.ipynb: Code of this part of the project in a jupyter notebook format
+
 |___toy_model.py: Code of this part of the project in .py format
+
 |___data:contains a data set of the shape (10000,60,1)
-|___models
-        |___Toy_DN.h5: 
+
+|___models: models were trained for 20 epochs using adam optimizer and MSE loss function
+
+        |___Toy_DN.h5: 1 feedforward network
+
+        |___
         
