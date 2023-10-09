@@ -8,5 +8,9 @@ Files:
 
 toy_model: this folder the files relating with the study of RNN using simple-one-dimensional data.
 
+lorenz_attractor_model: this folder the files relating with the study of RNN using time series of chaotic solutions of the lorenz system
+
+Recurrent Neural Networks for time series forecasting in complex dynamical systems and their applications.pdf: Report of the project for further reading
+
 
         
