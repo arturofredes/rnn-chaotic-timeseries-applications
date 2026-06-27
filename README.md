@@ -1,6 +1,6 @@
 # Recurrent Neural Networks for Time Series Forecasting in Complex Dynamical Systems
 
-[lorenz](ssLorenz16.jpg)
+![lorenz](ssLorenz16.jpg)
 
 **Author:** Arturo Fredes Cáceres
 **Supervisors:** Dr. Sergio Gutiérrez Rodrigo ([sergut@unizar.es](mailto:sergut@unizar.es)) · César Arbiol Herrera
